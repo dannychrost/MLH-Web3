@@ -3,6 +3,8 @@
 ## My Transaction:
 https://explorer.solana.com/tx/21qGQs8Q7x2N9WuqSCMkCMVtHzFnbt6KSYsVK4Si3592cTE22FecbZ34m6U5AdPguHvwVoukQA1b3QRqRGYNbuzL?cluster=devnet
 
+![Challenge Completion Screenshot](hello-world-challenge.png "Project Confirmation")
+
 ## Running on Solana's playground
 https://solana.com/developers/guides/getstarted/hello-world-in-your-browser
 
